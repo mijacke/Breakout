@@ -8,8 +8,11 @@ Main menu: The game is launched by the file main.py, which displays the game's u
 
 ## Game Controls
 - The paddle movement can be controlled using the 'A' key to move left and the 'D' key to move right.
+- 
 - Pause: You can pause the game at any time by pressing the ESC key. Pressing this key again resumes the game.
+- 
 - Win: You win the game by destroying all the bricks on the playing field. The game ends in loss if the ball passes the lower boundary of the playing area and your last life is lost.
+- 
 
 ## Used Libraries
 - pygame
