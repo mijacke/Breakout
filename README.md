@@ -1,4 +1,4 @@
-# Breakout-Game
+# Breakout
 
 ## Project Description
 This project represents the popular arcade game Breakout. The player controls a paddle at the bottom of the screen and uses it to bounce a ball that destroys bricks placed at the top of the screen. The goal of the game is to destroy all the bricks and score as many points as possible without letting the ball fall beyond the play area boundaries.
